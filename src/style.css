@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.todo-container{
+    height: 400px;
+    width: 300px;
+   background-color: white;
+   border-radius: 10px;
+   padding: 20px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.todo-item{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+
+}
+
+.todo-button{
+    width: 100%;
+    padding: 5px;
+    font-weight: bolder;
+    cursor: pointer;
+    /* border: none; */
+    border-radius: 5px;
+}
+
+.todo-text{
+    margin: 5px;
+}

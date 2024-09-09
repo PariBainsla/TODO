@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 Click on https://todothree-react.netlify.app/ to view it in your browser.
 
+![s1](https://github.com/user-attachments/assets/43e9f08e-97f5-49b9-a04c-284c0e7acee9)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
